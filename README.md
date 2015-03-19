@@ -8,6 +8,13 @@ This recipe should only be used with the OpsWorks OS Package php5-mcrypt in Ubun
 Use recipe on **Setup** ONLY.
 
 
+###laravel::php_memcache_enable
+
+
+###laravel::php_memcached_enable
+
+
+
 
 ###laravel::permission
 This recipe should only be used with the OpsWorks setup laravel storage permission
